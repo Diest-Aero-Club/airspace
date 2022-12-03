@@ -1,0 +1,31 @@
+Import report file BELLUX_W-END.txt
+Date 18/09/2022
+
+Line  653:   Unknown airspace type, defaulted to CTA
+Line  682:   Unknown airspace type, defaulted to CTA
+Line  795:   Unknown airspace type, defaulted to CTA
+Line  817:   Unknown airspace type, defaulted to CTA
+Line  838:   Unknown airspace type, defaulted to CTA
+Line 1950: DA 5.5,340,160  Unrecognised code
+Line 1955: DA 5.5,160,340  Unrecognised code
+Line 1966: DA 5,320,140  Unrecognised code
+Line 1971: DA 5,140,320  Unrecognised code
+Line 2005: DA 5,330,150  Unrecognised code
+Line 2008: DA 5,150,330  Unrecognised code
+Line 2553: DA 2,0,360  Unrecognised code
+Line 2611: DA 2,0,360  Unrecognised code
+Line 2618: DA 2,0,360  Unrecognised code
+Line 2625: DA 2,0,360  Unrecognised code
+Line 2700:   Unknown airspace type, defaulted to CTA
+Line 2769:   Unknown airspace type, defaulted to CTA
+Line 2951:   Unknown airspace type, defaulted to CTA
+Line 2989:   Unknown airspace type, defaulted to CTA
+Line 3167:   Unknown airspace type, defaulted to CTA
+Line 3281:   Unknown airspace type, defaulted to CTA
+Line 3329:   Unknown airspace type, defaulted to CTA
+Line 4528:   Unknown airspace type, defaulted to CTA
+Line 4706:   Unknown airspace type, defaulted to CTA
+Line 5132:   Unknown airspace type, defaulted to CTA
+Line 5347:   Unknown airspace type, defaulted to CTA
+Line 5409:   Unknown airspace type, defaulted to CTA
+Line 5892: DA 2,0,360  Unrecognised code
